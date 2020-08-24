@@ -12,4 +12,4 @@ elif b == c != a:
 
 else:
     print("Числа", a, b, c, "не равны")
-break
+end()
