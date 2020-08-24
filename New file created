@@ -1,5 +1,6 @@
 a = int(input())
 b = int(input())
+c = int(input())
 if a==b==c :
     print("Числа", a, b, c, "равны")
 else:
